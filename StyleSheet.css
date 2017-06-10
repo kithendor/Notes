@@ -1,0 +1,10 @@
+﻿body { background-color:aqua;
+}
+#notesid{background-color:orange;}
+#kato{background-color:red; bottom:5px; position:fixed; width:98%; border-radius:15px; height:80px;padding:10px;}
+.koupia{background-color:mediumvioletred;}
+.newnotescl{background-color:deeppink; padding:3px; margin:12px; position:relative;word-wrap:break-word}
+
+#notes{resize:none; width:80%;}
+
+.newbtn{position:absolute; right:5px; top:2px;}
